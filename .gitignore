@@ -1,0 +1,6 @@
+#build outputs
+obj/*.o
+main
+
+#windows Zone identifier files
+*Zone.identifier
